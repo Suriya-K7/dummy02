@@ -47,9 +47,9 @@ const Card3 = () => {
             </li>
           </ul>
           <div className="d-grid">
-            <a href="#" className="btn  d-block btn-primary text-uppercase">
+            <button className="btn  d-block btn-primary text-uppercase">
               Button
-            </a>
+            </button>
           </div>
         </div>
       </div>
